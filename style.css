@@ -71,3 +71,10 @@ h2{
     margin-left: 15px;
     font-weight: 800;
 }
+
+
+@media screen and (max-width: 600px) {
+    .card{
+        max-width: 85%;
+    }
+}
