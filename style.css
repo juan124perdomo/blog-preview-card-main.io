@@ -63,13 +63,14 @@ h2{
     padding: 10px;
 }
 .perfil img{
-    width:55px;
+    width:35px;
 
 
 }
 .perfil h4{
     margin-left: 15px;
     font-weight: 800;
+    font-size: 13px;
 }
 
 
