@@ -16,7 +16,7 @@ body{
     border-radius: 20px;
     border: 1px solid black;
     box-shadow: 10px 10px black;
-    margin-top:150px;
+    margin-top:130px;
     
 }
 .svg{
@@ -26,7 +26,7 @@ body{
 }
 .learning{
     background:hsl(47, 88%, 63%);
-    width: 90px;
+    width: 85px;
     font-weight: 900;
     padding: 8px;
     border-radius: 5px;
@@ -51,9 +51,11 @@ body{
 
 span{
     margin: 8px;
+    font-size: 15px;
 }
 h2{
-    margin: 10px;
+    
+    margin: 5px 0px 0px 10px;
 }
 .perfil{
     display: flex;
