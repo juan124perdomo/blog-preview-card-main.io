@@ -11,7 +11,7 @@ body{
 .card{
     background:#fff;
     margin: auto;
-    max-width: 400px;
+    max-width: 350px;
     padding: 10px;
     border-radius: 20px;
     border: 1px solid black;
@@ -43,7 +43,7 @@ body{
 }
 .text_containt p{
     color: #494949;
-    font-size: 1.15rem;
+    font-size: 1rem;
     letter-spacing: 1px;
     padding: 10px;
 }
